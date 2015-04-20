@@ -152,7 +152,7 @@ nav.navbar.fixed-to-top{
 header{
 	padding: 150px 0px 0px 0px;
 	height: 960px;
-	background: url('../img/background/slide-01.jpg');
+	background: url('../img/background/slide-01.png');
 	background-color: white!important;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -293,7 +293,7 @@ header .carousel-indicators li {
 	padding-top: 95px;
 	width: 320px;
 	height: 450px;
-	background: url('../img/iphone-front.png') no-repeat;
+	background: url('../img/samsung_s5.png') no-repeat;
 	background-size: 100%;
 }
 

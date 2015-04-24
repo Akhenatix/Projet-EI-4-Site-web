@@ -250,6 +250,10 @@ header .carousel-indicators li {
 	font-size: 2.8em;
 }
 
+.payoff p{
+	font-size: 2em;
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*	DETAIL
 /*-----------------------------------------------------------------------------------*/
@@ -416,10 +420,8 @@ header .carousel-indicators li {
 	text-align: center;
 }
 
-.get-it button.app-store{
-	width: 152px;
-	height: 52px;
-	background: url(../img/badge-playstore.png) #373737 no-repeat 0px 5px;
+.get-it button:hover{
+	background-color: #68db78;
 	color: white;
 }
 
@@ -503,6 +505,10 @@ header, .social{
 
 .payoff h1{
 	font-size: 24px;
+}
+
+.payoff p{
+	font-size: 1.5em;
 }
 
 .features .col-md-4{

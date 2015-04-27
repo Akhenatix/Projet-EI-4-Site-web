@@ -287,7 +287,7 @@ header .carousel-indicators li {
 }
 
 .detail p{
-	color: #aaa;
+	color: #888;
 }
 
 .detail .carousel-control{
@@ -359,6 +359,7 @@ header .carousel-indicators li {
 
 .features p {
 	font-weight: 400;
+	color: #388b48;
 }
 
 .features h2{
@@ -425,9 +426,14 @@ header .carousel-indicators li {
 	text-align: center;
 }
 
+.get-it button{
+	background-color: #AAAAAA;
+	color: black;
+}
+
 .get-it button:hover{
 	background-color: #68db78;
-	color: white;
+	color: black;
 }
 
 .get-it hr{
